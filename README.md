@@ -9,6 +9,6 @@ A NextJs blog that convert markdown files in a blog page.
 
 # Scripts in the Project
 
-Run ```yarn``` in the base directory to install all the dependencies.
-Run ```yarn dev``` to start a dev server.
+Run ```yarn``` in the base directory to install all the dependencies.<br/>
+Run ```yarn dev``` to start a dev server.<br/>
 Run ```yarn build``` to create a production build.
